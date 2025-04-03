@@ -46,7 +46,5 @@ Abaixo está um exemplo de saída gráfica do modelo:
 ![Gráfico de Previsão](grafico_exemplo.png)
 
 ## 🏆 Conclusão
-Este projeto demonstra como é possível prever vendas de sorvete com base na temperatura, ajudando negócios a se planejarem melhor e reduzirem desperdícios.
-
-Sinta-se à vontade para contribuir ou sugerir melhorias! 🚀
+Este projeto demonstra como prever vendas de sorvete com base na temperatura, ajudando negócios a se planejarem melhor e reduzirem desperdícios.
 
